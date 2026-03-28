@@ -1,2 +1,2 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
+- [百年孤独](百年孤独)
